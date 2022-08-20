@@ -1,5 +1,5 @@
 # AI-and-Robotics-activity.1
-This repository contains step by step guide to achieving the following :
+This repository contains step by step guide for achieving the following :
 1. Installing Linux OS Ubuntu 
 2. Installing ROS
 
@@ -39,6 +39,8 @@ This repository contains step by step guide to achieving the following :
 run each command listed in the file as instructed in the terminal
 
 ![image](https://user-images.githubusercontent.com/57038620/185742442-671fd892-b9e0-4751-989c-0056dc3028a2.png)
+ 
+  
 ![image](https://user-images.githubusercontent.com/57038620/185742977-464ea2ee-9b92-4954-8c7c-d256699f8d99.png)
 
 
