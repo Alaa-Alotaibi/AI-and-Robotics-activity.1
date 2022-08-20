@@ -18,9 +18,6 @@ This repository contains step by step guide to achieving the following :
 ![image](https://user-images.githubusercontent.com/57038620/185741887-32f637ce-9248-4a87-a40e-ae44cb9510ae.png)
 ![image](https://user-images.githubusercontent.com/57038620/185741899-01e89dec-485c-48b6-b5ee-805137e09d72.png)
 ![image](https://user-images.githubusercontent.com/57038620/185741914-b1ebc618-0e2b-4232-8893-90fad09396e8.png)
-
-
-
 ![image](https://user-images.githubusercontent.com/57038620/185741995-74d0b2d7-06b7-4bf0-9307-3bdf62ef86f9.png)
 ![image](https://user-images.githubusercontent.com/57038620/185742032-5bec7655-2302-46c5-8712-767808174c51.png)
 ![image](https://user-images.githubusercontent.com/57038620/185742070-0d6e42d0-6c91-4df8-a6dc-2f04fba0b00d.png)
@@ -30,11 +27,11 @@ This repository contains step by step guide to achieving the following :
 ![image](https://user-images.githubusercontent.com/57038620/185742180-34683b43-0a5f-47f4-8d24-a9ef31d00eb7.png)
 ![image](https://user-images.githubusercontent.com/57038620/185742206-33a20454-ef97-434c-a168-1d93f7399701.png)
 ![image](https://user-images.githubusercontent.com/57038620/185742240-e2f481d2-a7e1-477d-aa28-5e349ba9e4cd.png)
-![image](https://user-images.githubusercontent.com/57038620/185742264-3590fa4e-195c-4974-ba9b-a31fbab031dc.png)
+
 
 
 4. Run the instructions listed at https://s-m.com.sa/ros.txt to install ROS on Ubuntu.
-
+![image](https://user-images.githubusercontent.com/57038620/185742264-3590fa4e-195c-4974-ba9b-a31fbab031dc.png)
 ![image](https://user-images.githubusercontent.com/57038620/185742273-dc1c2148-2859-45e6-8712-bb2a3bcba3c9.png)
 ![image](https://user-images.githubusercontent.com/57038620/185742351-3dfeed8c-b943-4f97-aab4-71a17e146015.png)
 ![image](https://user-images.githubusercontent.com/57038620/185742390-4b3f47d1-709a-4ce4-a554-02732d9b3627.png)
